@@ -1,20 +1,24 @@
 {
-  "id": "offline_mobile",
-  "name": "Offline Mobile",
-  "categoryId": "core",
-  "description": "Optimized multi-state strategy",
-  "investment_24m": "720",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "195",
-  "status_color": "#FF0000",
-  "type": "InHouseDev",
-  "support_cost": "104",
-  "deployment_date": "27/2/14",
-  "end_of_maintenance": "6/11/17",
-  "department": "Business Development",
-  "status": "Decomissioned",
-  "end_of_life": "4/3/20",
-  "months_to_renew_support": "15",
-  "sme_email": "Kayle.Pratton@memento.net.au",
-  "investment_number": "421"
+  "applications": [
+    {
+      "id": "offline_mobile",
+      "name": "Offline Mobile",
+      "categoryId": "core",
+      "description": "Optimized multi-state strategy",
+      "investment_24m": "720",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "195",
+      "status_color": "#FF0000",
+      "type": "InHouseDev",
+      "support_cost": "104",
+      "deployment_date": "27/2/14",
+      "end_of_maintenance": "6/11/17",
+      "department": "Business Development",
+      "status": "Decomissioned",
+      "end_of_life": "4/3/20",
+      "months_to_renew_support": "15",
+      "sme_email": "Kayle.Pratton@memento.net.au",
+      "investment_number": "421"
+    }
+  ]
 }
