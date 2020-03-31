@@ -18,7 +18,28 @@
       "end_of_life": "4/3/20",
       "months_to_renew_support": "15",
       "sme_email": "Kayle.Pratton@memento.net.au",
-      "investment_number": "421"
+      "investment_number": "421",
+      "integrations": [
+        {
+          "id": "int-153",
+          "name": "INT-153",
+          "categoryId": "0b92058e-25af-4e83-ad26-fe6e6f607f17",
+          "description": "Curabitur convallis. Duis consequat dui nec nisi volutpat eleifend.",
+          "sourceApplicationId": "offline_mobile",
+          "targetApplicationId": "latlux",
+          "logical_server": "CLOUD-A2A",
+          "status_color": "#00FF00",
+          "pattern": "Fire and Forget",
+          "golive_date": "3/12/01",
+          "sme_name": "Ramsey Tindle",
+          "datacentre": "Asia Pacific (Melbourne)",
+          "department": "App Control",
+          "status": "Active",
+          "sme_email": "rtindlem@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "21/5/17"
+        }
+      ]
     }
   ]
 }
